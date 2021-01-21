@@ -27,9 +27,10 @@
 
 ### Navigation
 - <a href="cv">Curriculum Vitae</a>
+- <a href="papers">Publications</a>
+
 
 ### Contact
-
 
 <p>Peter Sutton [he/him]</p>
 
