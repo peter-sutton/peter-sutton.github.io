@@ -26,7 +26,7 @@
 <!-- /wp:paragraph -->
 
 ### Navigation
-- <a href="cv.md">Curriculum Vitae</a>
+- <a href="cv">Curriculum Vitae</a>
 
 
 
