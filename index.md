@@ -25,6 +25,11 @@
 <p>Details of the funding for my research and my teaching experience can be found in&nbsp;my <a href="cv21_01.pdf" data-type="page" data-id="29">CV</a>.</p>
 <!-- /wp:paragraph -->
 
+### Navigation
+- <a href="cv.md">Curriculum Vitae</a>
+
+
+
 
 <!--
 You can use the [editor on GitHub](https://github.com/peter-sutton/peter-sutton.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
