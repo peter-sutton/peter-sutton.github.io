@@ -12,7 +12,7 @@
 <!--<div class="wp-block-image"><figure class="alignleft is-resized">
   </figure></div> -->
   
-<img src="photo1.jpeg" align="left" alt="" class="wp-image-88" width="241" height="367" style="margin: 0px 10px 0px 0px;" />
+<img src="photo1.jpeg" align="right" alt="" class="wp-image-88" width="241" height="367" style="margin: 0px 10px 0px 0px;" />
 
 <p>Some of the topics that interest me are: the semantics of counting and measuring constructions (both in the nominal and verbal domains), vagueness, the semantics of case marking (especially in Finnic languages), context-sensitivity, and the philosophy of information.</p>
 
@@ -28,6 +28,14 @@
 ### Navigation
 - <a href="cv">Curriculum Vitae</a>
 
+### Contact
+
+
+<p>Peter Sutton [he/him]</p>
+
+<p><strong>peter&nbsp;</strong><em>dot</em><strong>&nbsp;r&nbsp;</strong><em>dot</em><strong>&nbsp;sutton&nbsp;</strong><em>at_symbol</em><strong>&nbsp;icloud&nbsp;</strong><em>dot</em><strong>&nbsp;com</strong></p>
+
+<p>Heinrich-Heine-Universität Düsseldorf<br>Abteilung für Allgemeine Sprachwissenschaft <br>Institut für Sprache und Information<br>24.53 &nbsp;00.87<br>Universitätsstraße 1<br>40225 Düsseldorf</p>
 
 
 
