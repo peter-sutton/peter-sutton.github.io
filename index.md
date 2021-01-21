@@ -12,7 +12,7 @@
 <!--<div class="wp-block-image"><figure class="alignleft is-resized">
   </figure></div> -->
   
-<img src="http://peter-sutton.co.uk/wp-content/uploads/2019/07/1f09c018-9859-4949-b2ff-6ffe924d4a47.jpeg" alt="" class="wp-image-88" width="241" height="367"/><p>Some of the topics that interest me are: the semantics of counting and measuring constructions (both in the nominal and verbal domains), vagueness, the semantics of case marking (especially in Finnic languages), context-sensitivity, and the philosophy of information.</p>
+<img src="photo1.jpeg" alt="" class="wp-image-88" width="241" height="367"/><p>Some of the topics that interest me are: the semantics of counting and measuring constructions (both in the nominal and verbal domains), vagueness, the semantics of case marking (especially in Finnic languages), context-sensitivity, and the philosophy of information.</p>
 
 
 <!-- wp:paragraph -->
