@@ -22,7 +22,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Details of the funding for my research and my teaching experience can be found in&nbsp;my <a href="http://peter-sutton.co.uk/cv/" data-type="page" data-id="29">CV</a>.</p>
+<p>Details of the funding for my research and my teaching experience can be found in&nbsp;my <a href="cv21_01.pdf" data-type="page" data-id="29">CV</a>.</p>
 <!-- /wp:paragraph -->
 
 
