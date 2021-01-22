@@ -1,7 +1,4 @@
-title: [Peter Sutton]
 
-<!--
-description: [A short description of your site's purpose]-->
 
 ## Peter Sutton
 
