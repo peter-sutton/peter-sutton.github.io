@@ -22,7 +22,7 @@
 
 <!-- wp:list -->
 <ul>
-  <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. Blackwell Companion to Semantics. Wiley Publishing.</li>
+  <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
   <li>P. R. Sutton. 2018. Probabilistic Approaches to Vagueness and the Principle of Tolerance. Erkenntnis 83(4): 711-740&nbsp;<br> <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/prob_tol.pdf">&lt;pre-final&gt;</a>&nbsp;  <a href="https://link.springer.com/article/10.1007/s10670-017-9910-6">&lt;publisher link (paywall)&gt;</a></li>
   <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/phd_thesis.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
 <!-- /wp:list -->
