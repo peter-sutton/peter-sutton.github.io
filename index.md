@@ -1,4 +1,11 @@
-
+<table>
+  <tbody>
+    <tr>
+      <td><a href="cv">Curriculum Vitae</a>/td>
+      <td><a href="papers">Publications</a></td>
+    </tr>
+    </tbody>
+</table>
 
 ## Peter Sutton
 
@@ -29,9 +36,6 @@
 <p>Details of the funding for my research and my teaching experience can be found in&nbsp;my <a href="cv21_01.pdf" data-type="page" data-id="29">CV</a>.</p>
 <!-- /wp:paragraph -->
 
-### Navigation
-- <a href="cv">Curriculum Vitae</a>
-- <a href="papers">Publications</a>
 
 
 ### Contact
