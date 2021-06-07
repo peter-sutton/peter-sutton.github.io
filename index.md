@@ -1,11 +1,13 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="cv">Curriculum Vitae</a>/td>
+      <td><a href="cv">Curriculum Vitae</a></td>
       <td><a href="papers">Publications</a></td>
     </tr>
     </tbody>
 </table>
+
+
 
 ## Peter Sutton
 
