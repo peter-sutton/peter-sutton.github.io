@@ -1,6 +1,7 @@
 <table>
   <tbody>
     <tr>
+      <td><a href="index">About</a></td>
       <td><a href="cv">Curriculum Vitae</a></td>
       <td><a href="papers">Publications</a></td>
     </tr>
@@ -9,7 +10,6 @@
 
 
 
-## Peter Sutton
 
 <!-- wp:heading {"level":3} -->
 <h3>About:</h3>
