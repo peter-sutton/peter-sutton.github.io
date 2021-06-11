@@ -16,9 +16,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am currently a postdoctoral researcher at Universitat Pompeu Fabra in Barcelona. My project, <i>Abstract nouns: polysemy and countability</i>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. </p>
+<p>I am currently a Beatriu de Pinós postdoctoral researcher at Universitat Pompeu Fabra in Barcelona. My project, <i>Abstract nouns: polysemy and countability</i>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project is funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sklodowska-Curie grant agreement No 801370.</p>
 
-<p>Previous to Barcelona, I was working at HHU Düsseldorf as the postdoctoral researcher on the project&nbsp;'<a href="https://sites.google.com/view/individuation">Individuation of Eventualities and Abstract Things</a>', a project funded by the German Research Foundation (DFG).</p>
+<!--<p>Previous to Barcelona, I was working at HHU Düsseldorf as the postdoctoral researcher on the project&nbsp;'<a href="https://sites.google.com/view/individuation">Individuation of Eventualities and Abstract Things</a>', a project funded by the German Research Foundation (DFG).</p>-->
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":88,"width":241,"height":367} -->
