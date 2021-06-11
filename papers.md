@@ -10,7 +10,9 @@
 
 
 
-# Publications - By Topic and By Year
+# Publications 
+
+<p>My publications are listed by topic and subsequently by year. </p>
 
 ## By Topic
 
