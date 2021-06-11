@@ -55,6 +55,27 @@
 ## By Year
 
 <!-- wp:heading {"level":3} -->
+### 2021
+<!-- /wp:heading -->
+<ul>
+  <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
+<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2020. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
+<li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
+<li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP.</li>
+</ul>
+
+<!-- wp:heading {"level":3} -->
+### 2020
+<!-- /wp:heading -->
+<ul>
+  <li>A. Schuster, Strößner, C. Sutton, P.R., and Zeevat, H. 2020. Stochastic frames. Forthcoming in the in Christine Howes, Stergios Chatzikyriakidis, Adam Ek, Vidya Somashekarappa (eds.) Proceedings of Probability and Meaning in the ACL Anthology, 2020.</li>
+<li>P. R. Sutton and C-R Little. 2020,. The Finnish partitive in counting and measuring constructions. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
+<li>P. R. Sutton and H. Filip. 2020. Informational Object Nouns and the mass/count distinction. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
+<li>Taylor, S. & P. R. Sutton. 2020. A frame-theoretic model of Bayesian category learning. In S. Löbner, T. Gamerschlag, T. Kalenscher, M. Schrenk & H. Zeevat (eds.), Concepts, Frames and Cascades in Semantics, Cognition and Ontology. Language, Cognition, and Mind series. Springer.</li>
+</ul>
+
+
+<!-- wp:heading {"level":3} -->
 ### 2019
 <!-- /wp:heading -->
 
