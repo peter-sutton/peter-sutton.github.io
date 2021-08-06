@@ -59,7 +59,7 @@ Room 52.621 <br>
 
 ### Publication Name
 
-My publications are usually under the name Peter R. Sutton. I am distinct from <a href="https://sites.google.com/site/vuuphilosophers/dr-sutton-s-home-page">&lt;Peter A. Sutton (Philosophy, Virginia Union University)&gt;</a>
+My publications are usually under the name Peter R. Sutton. I am distinct from <a href="https://sites.google.com/site/vuuphilosophers/dr-sutton-s-home-page">Peter A. Sutton (Philosophy, Virginia Union University);</a>
   
  
 
