@@ -57,6 +57,12 @@ Room 52.621 <br>
 <!--<p>Heinrich-Heine-Universität Düsseldorf<br>Abteilung für Allgemeine Sprachwissenschaft <br>Institut für Sprache und Information<br>24.53 &nbsp;00.87<br>Universitätsstraße 1<br>40225 Düsseldorf</p> --> 
 
 
+### Publication Name
+
+My publications are usually under the name Peter R. Sutton. I am distinct from <a href="https://sites.google.com/site/vuuphilosophers/dr-sutton-s-home-page">&lt;Peter A. Sutton (Philosophy, Virginia Union University)&gt;</a>
+  
+ 
+
 
 <!--
 You can use the [editor on GitHub](https://github.com/peter-sutton/peter-sutton.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
