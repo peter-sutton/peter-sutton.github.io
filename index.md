@@ -27,7 +27,7 @@
 <!--<div class="wp-block-image"><figure class="alignleft is-resized">
   </figure></div> -->
   
-<img src="photo_2.jpeg" align="right" alt="" class="wp-image-88" width="276" height="367" style="margin: 25px 0px 0px 0px;" />
+<img src="photo_2.jpeg" align="right" alt="" class="wp-image-88" width="276" height="367" style="margin: 15px 0px 0px 20px;" />
 
 <p>Some of the topics that interest me are: countability, including the semantics of counting and measuring constructions, vagueness, the semantics of case marking (especially in Finnic languages), context-sensitivity, and the philosophy of information.</p>
 
