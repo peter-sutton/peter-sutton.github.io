@@ -81,7 +81,7 @@
 <ul>
 <li>Sutton, P. R. 2022 in press. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI.</li>
 <li>Sutton, P. R. 2022 forthcoming. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32.</li>
-Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022 in press. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.</li>
+<li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022 in press. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.</li>
 </ul>  
   
   
