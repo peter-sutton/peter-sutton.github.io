@@ -16,16 +16,24 @@
 
 ## By Topic
 
+### Polysemy and Copredication
+
+<!-- wp:list -->
+<ul>
+<li>Sutton, P. R. 2022 forthcoming. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32.</li>
+</ul>
+
 
 ### Countability
 
 <!-- wp:list -->
 <ul>
+<li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022 in press. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.</li>
+<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
 <li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. </li>
 <li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP.</li>
 <li>P. R. Sutton and C-R Little. 2020,. The Finnish partitive in counting and measuring constructions. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
 <li>P. R. Sutton and H. Filip. 2020. Informational Object Nouns and the mass/count distinction. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
-<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2020. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
 <li>K. Erbach, P.R. Sutton, and H. Filip. Bare nouns and the Hungarian mass/count distinction. In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg.</li>
 <li>P. R. Sutton and H. Filip. 2019. Singular/Plural contrasts: The case of Informational Object Nouns. Proceedings of the 22nd Amsterdam Colloquium, pp 367–376. <a href="http://events.illc.uva.nl/AC/AC2019/uploaded_files/inlineitem/Sutton_and_Filip_Singular_plural_contrasts_the_case.pdf">&lt;Proceedings link&gt;</a></li>
 <li>P. R. Sutton and H. Filip. 2018. Restrictions on Subkind Coercion in Object Mass Nouns. Proceedings of Sinn und Bedeutung 21: 1195-1213, University of Edinburgh.&nbsp;<a href="https://semanticsarchive.net/Archive/DRjNjViN/SuttonFilip.pdf">&lt;semantics archive&gt;</a></li>
@@ -46,7 +54,8 @@
 
 <!-- wp:list -->
 <ul>
-  <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
+<li>Sutton, P. R. 2022 forthcoming. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI.</li>
+<li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
   <li>P. R. Sutton. 2018. Probabilistic Approaches to Vagueness and the Principle of Tolerance. Erkenntnis 83(4): 711-740&nbsp;<br> <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/prob_tol.pdf">&lt;pre-final&gt;</a>&nbsp;  <a href="https://link.springer.com/article/10.1007/s10670-017-9910-6">&lt;publisher link (paywall)&gt;</a></li>
   <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/phd_thesis.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
 <!-- /wp:list -->
@@ -67,11 +76,21 @@
 ## By Year
 
 <!-- wp:heading {"level":3} -->
+### 2022
+<!-- /wp:heading -->
+<ul>
+<li>Sutton, P. R. 2022 in press. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI.</li>
+<li>Sutton, P. R. 2022 forthcoming. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32.</li>
+Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022 in press. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.</li>
+</ul>  
+  
+  
+<!-- wp:heading {"level":3} -->
 ### 2021
 <!-- /wp:heading -->
 <ul>
-  <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
-<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2020. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
+<li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing.</li>
+<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
 <li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
 <li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP.</li>
 </ul>
