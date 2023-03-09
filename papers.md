@@ -20,15 +20,16 @@
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a><</li>
+<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a></li>
 </ul>
 
+<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">lt;pdf&gt;</a>
 
 ### Countability
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022 in press. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.</li>
+<li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">lt;pdf&gt;</a></li>
 <li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
 <li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. </li>
 <li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP.</li>
