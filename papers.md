@@ -20,7 +20,7 @@
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;Lnk&gt;</a><</li>
+<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a><</li>
 </ul>
 
 
