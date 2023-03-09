@@ -23,19 +23,19 @@
 <li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a></li>
 </ul>
 
-<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">lt;pdf&gt;</a>
+
 
 ### Countability
 
 <!-- wp:list -->
 <ul>
 <li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">lt;pdf&gt;</a></li>
-<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP.</li>
-<li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. </li>
-<li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP.</li>
-<li>P. R. Sutton and C-R Little. 2020,. The Finnish partitive in counting and measuring constructions. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
-<li>P. R. Sutton and H. Filip. 2020. Informational Object Nouns and the mass/count distinction. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24.</li>
-<li>K. Erbach, P.R. Sutton, and H. Filip. Bare nouns and the Hungarian mass/count distinction. In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg.</li>
+<li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/object-mass-nouns-as-an-arbiter-for-the-countmass-category/B41DDF60DD5C088383F1A7244F92CEF0">&lt;publisher link&gt;</a></li>
+<li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/container-portion-and-measure-interpretations-of-pseudopartitive-constructions/C696581BF0F2DC99832AB01057D12DC6">&lt;publisher link&gt;</a></li>
+<li>P. R. Sutton and H. Filip. 2021. "The count/mass distinction for granular nouns". In: H. Filip (ed.) Countability in Natural Language. CUP. <a href="https://www.cambridge.org/core/books/abs/countability-in-natural-language/countmass-distinction-for-granular-nouns/9669F50DFA386D283AAEE1F9C291729E">&lt;publisher link&gt;</a></li>
+<li>P. R. Sutton and C-R Little. 2020,. The Finnish partitive in counting and measuring constructions. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24. <a href="https://semanticsarchive.net/Archive/mZhNDA4Y/52_sutton_little.pdf">&lt;pdf&gt;</a></li>
+<li>P. R. Sutton and H. Filip. 2020. Informational Object Nouns and the mass/count distinction. In Michael Franke, Nikola Kompa, Mingya Liu, Jutta L. Mueller, and Juliane Schwab (eds.), Proceedings of Sinn und Bedeutung 24. <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/900">&lt;publisher link&gt;</a></li>
+<li>K. Erbach, P.R. Sutton, and H. Filip. Bare nouns and the Hungarian mass/count distinction. In: A. Silva, S. Staton, P. Sutton, C. Umbach (eds.), Language, Logic, and Computation. TbiLLC 2017. Lecture Notes in Computer Science, vol 11456. pp. 86-107. Springer, Berlin, Heidelberg. <a href="https://link.springer.com/chapter/10.1007/978-3-662-59565-7_5">&lt;publisher link&gt;</a></li>
 <li>P. R. Sutton and H. Filip. 2019. Singular/Plural contrasts: The case of Informational Object Nouns. Proceedings of the 22nd Amsterdam Colloquium, pp 367–376. <a href="http://events.illc.uva.nl/AC/AC2019/uploaded_files/inlineitem/Sutton_and_Filip_Singular_plural_contrasts_the_case.pdf">&lt;Proceedings link&gt;</a></li>
 <li>P. R. Sutton and H. Filip. 2018. Restrictions on Subkind Coercion in Object Mass Nouns. Proceedings of Sinn und Bedeutung 21: 1195-1213, University of Edinburgh.&nbsp;<a href="https://semanticsarchive.net/Archive/DRjNjViN/SuttonFilip.pdf">&lt;semantics archive&gt;</a></li>
 <li>K. Erbach, P. R. Sutton, H. Filip, &amp; K. Byrdeck. 2017. Object Mass Nouns in Japanese. In: A. Cremers, T. van Gessel, &amp; F. Roelofsen eds. Proceedings of the 21st Amsterdam Colloquium. pp. 235-244&nbsp;<a href="https://semanticsarchive.net/Archive/jZiM2FhZ/AC2017-Proceedings.pdf">&lt;semantics archive&gt;</a></li>
