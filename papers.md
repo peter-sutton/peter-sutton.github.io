@@ -10,11 +10,11 @@
 
 
 
-# Publications 
+# Publications by Topic 
 
-<p>My publications are listed by topic and subsequently by year. </p>
+<!--<p>My publications are listed by topic and subsequently by year. </p>
 
-## By Topic
+## By Topic-->
 
 ### Polysemy and Copredication
 
@@ -73,7 +73,7 @@
 <!-- /wp:list -->
 
 
-
+<!--
 ## By Year
 
 <!-- wp:heading {"level":3} -->
@@ -158,3 +158,4 @@
 <!-- wp:list -->
 <ul><li><a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/phd_thesis.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London, 2013.</li></ul>
 <!-- /wp:list -->
+-->
