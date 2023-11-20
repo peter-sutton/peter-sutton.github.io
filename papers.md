@@ -20,7 +20,7 @@
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Forthcoming in the Proceedings of Sinn und Bedeutung 28.<a href="sub_poster.pdf" data-type="page" data-id="29">Poster</a></li>
+<li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Forthcoming in the Proceedings of Sinn und Bedeutung 28. <a href="sub_poster.pdf" data-type="page" data-id="29">Poster</a></li>
 <li>Sutton, P. R. 2024. Types and Type Theories in Natural Language Analysis. Annu. Rev. Linguist. 2024. 10:5.1–5.20. <a href="https://doi.org/10.1146/annurev-linguistics-031422-113929">&lt;publisher link&gt;</a></li>
 <li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a></li>
 </ul>
@@ -61,9 +61,10 @@
 <ul>
 <li>Sutton, P. R. 2023. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI. <a href="https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html">&lt;publisher link&gt;</a> </li>
 <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118788516.sem053">&lt;publisher link&gt;</a></li>
-  <li>P. R. Sutton. 2018. Probabilistic Approaches to Vagueness and the Principle of Tolerance. Erkenntnis 83(4): 711-740&nbsp;<br> <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/prob_tol.pdf">&lt;pre-final&gt;</a>&nbsp;  <a href="https://link.springer.com/article/10.1007/s10670-017-9910-6">&lt;publisher link (paywall)&gt;</a></li>
-  <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="http://peter-sutton.co.uk/wp-content/uploads/2019/07/phd_thesis.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
+  <li>P. R. Sutton. 2018. Probabilistic Approaches to Vagueness and the Principle of Tolerance. Erkenntnis 83(4): 711-740&nbsp;<br> <a href="sutton_erke2018.pdf">&lt;pre-final&gt;</a>&nbsp;  <a href="https://link.springer.com/article/10.1007/s10670-017-9910-6">&lt;publisher link (paywall)&gt;</a></li>
+  <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="SUTTON_0929920_thesis_library.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
 <!-- /wp:list -->
+
 
 <!-- wp:heading {"level":3} -->
 ### Other
