@@ -20,6 +20,8 @@
 
 <!-- wp:list -->
 <ul>
+<li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Forthcoming in the Proceedings of Sinn und Bedeutung 28.</li>
+<li>Sutton, P. R. 2024. Types and Type Theories in Natural Language Analysis. Annu. Rev. Linguist. 2024. 10:5.1–5.20. <a href="https://doi.org/10.1146/annurev-linguistics-031422-113929">&lt;pdf&gt;</a></li>
 <li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a></li>
 </ul>
 
