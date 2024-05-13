@@ -10,7 +10,7 @@
 
 
 
-# HU Colloquium talk 
+# SFB 1412 Colloquium talk 
 
 
 <p><a href="hu_sfb_colloq.pdf" data-type="page" data-id="29">slides</a>.</p>
