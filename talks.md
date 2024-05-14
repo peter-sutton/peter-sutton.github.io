@@ -9,7 +9,7 @@
 </table>
 
 
-# Potsdamn MorphoSynSem Colloquium, 14.05.24
+# Potsdam MorphoSynSem Colloquium, 14.05.24
 
 
 <p><a href="potsdam_seminar.pdf" data-type="page" data-id="29">slides</a>.</p>
