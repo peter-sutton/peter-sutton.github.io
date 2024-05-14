@@ -9,8 +9,13 @@
 </table>
 
 
+# Potsdamn MorphoSynSem Colloquium, 14.05.24
 
-# SFB 1412 Colloquium talk 
+
+<p><a href="potsdam_seminar.pdf" data-type="page" data-id="29">slides</a>.</p>
+
+
+# SFB 1412 Colloquium talk, HU, 13.05.24
 
 
 <p><a href="hu_sfb_colloq.pdf" data-type="page" data-id="29">slides</a>.</p>
