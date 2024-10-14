@@ -32,7 +32,7 @@
 <!-- wp:list -->
 <ul>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
-numerals and countability. Linguistics and Philosophy (online first).https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a></li>
+numerals and countability. Linguistics and Philosophy (online first). https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a></li>
 <li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">&lt;pdf&gt;</a></li>
 <li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/object-mass-nouns-as-an-arbiter-for-the-countmass-category/B41DDF60DD5C088383F1A7244F92CEF0">&lt;publisher link&gt;</a></li>
 <li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/container-portion-and-measure-interpretations-of-pseudopartitive-constructions/C696581BF0F2DC99832AB01057D12DC6">&lt;publisher link&gt;</a></li>
