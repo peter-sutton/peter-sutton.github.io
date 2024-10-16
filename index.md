@@ -18,7 +18,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am currently a postdoctoral researcher at Heinrich Heine University in Düsseldorf working on the project <i>Individuation of eventualities and abstract things</i> (PI Hana Filip). Until recently, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project is funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
+<p>I am currently a postdoctoral researcher at Potsdam University in Germany. Until recently, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
 
 <!--<p>Previous to Barcelona, I was working at HHU Düsseldorf as the postdoctoral researcher on the project&nbsp;'<a href="https://sites.google.com/view/individuation">Individuation of Eventualities and Abstract Things</a>', a project funded by the German Research Foundation (DFG).</p>-->
 <!-- /wp:paragraph -->
@@ -29,7 +29,7 @@
   
 <img src="photo_2.jpeg" align="right" alt="" class="wp-image-88" width="276" height="367" style="margin: 15px 0px 0px 20px;" />
 
-<p>Some of the topics that interest me are: countability, including the semantics of counting and measuring constructions, vagueness, the semantics of case marking (especially in Finnic languages), context-sensitivity, and the philosophy of information.</p>
+<p>Some of the topics that interest me are: countability, including the semantics of counting and measuring constructions, context-sensitivity, vagueness, and the semantics of case marking (especially in Finnic languages).</p>
 
 
 <!-- wp:paragraph -->
