@@ -15,7 +15,8 @@
 
 <p><a href="ac2024_slides.pdf" data-type="page" data-id="29">slides</a></p>
 
-
+<p></p>
+  
 ## Virtual NYI 2024 11.07.24
 
 <p><a href="v-nyi.pdf" data-type="page" data-id="29">slides</a></p>
