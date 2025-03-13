@@ -6,6 +6,7 @@
       <td><a href="index">About</a></td>
       <td><a href="cv">Curriculum Vitae</a></td>
       <td><a href="papers">Publications</a></td>
+      <td><a href="projects">Projects</a></td>
     </tr>
     </tbody>
 </table>
@@ -18,7 +19,9 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am currently a postdoctoral researcher at Potsdam University in Germany. Until recently, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
+<p>I am currently a postdoctoral researcher at Potsdam University in Germany. My project <a href="https://sites.google.com/view/pcan-project"></p><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025 
+  
+<p>Until recently, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
 
 <!--<p>Previous to Barcelona, I was working at HHU Düsseldorf as the postdoctoral researcher on the project&nbsp;'<a href="https://sites.google.com/view/individuation">Individuation of Eventualities and Abstract Things</a>', a project funded by the German Research Foundation (DFG).</p>-->
 <!-- /wp:paragraph -->
