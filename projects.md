@@ -11,7 +11,7 @@
 </table>
 
 
- <h3><a href="https://sites.google.com/view/pcan-project"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> </h3>h3>
+ <h3><a href="https://sites.google.com/view/pcan-project"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> </h3>
 
  <p>Project Duration: 01.04.2025-31.03.2028</p>
 
