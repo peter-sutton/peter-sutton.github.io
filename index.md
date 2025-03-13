@@ -19,7 +19,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am currently a postdoctoral researcher at Potsdam University in Germany. My DFG-funded project <a href="https://nice.github.io"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025.</p> 
+<p>I am currently a postdoctoral researcher at Potsdam University in Germany. My DFG-funded project <a href="https://peter-sutton.github.io/nice/"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025.</p> 
   
 <p>Until recently, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a>, which will be running until 2024, examines the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
 
