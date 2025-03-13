@@ -11,6 +11,13 @@
 </table>
 
 
+ <h3><a href="https://sites.google.com/view/pcan-project"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> </h3>h3>
+
+ <p>Project Duration: 01.04.2025-31.03.2028</p>
+
+<p>Funding body: The Germman Research Foundation (Deutsche Forschungsgemeinschaft, DFG). Project number 552248395.</p>
+  
+
 <h3><a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a></h3>
 
 <p>Project Duration: 01.06.2021-31.05.2024</p>
