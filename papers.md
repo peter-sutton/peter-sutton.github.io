@@ -32,6 +32,7 @@
 
 <!-- wp:list -->
 <ul>
+<li>Sutton, P. R. and H. Filip. 2024. Making a statement: eventuality denoting nominals. Proceedings of the 24th Amsterdam Colloquium, pp 367–376. <a href="https://events.illc.uva.nl/AC/AC2024/Proceedings/">&lt;Proceedings link&gt;</a></li>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
 numerals and countability. Linguistics and Philosophy (online first). https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a></li>
 <li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">&lt;pdf&gt;</a></li>
