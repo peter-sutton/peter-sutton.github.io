@@ -12,7 +12,7 @@
 
 # Slides for recent talks
 
-## ZAS Semantics Circle 15.05.25
+## ZAS Semantics Circle 16.05.25
 
 <p><a href="zas0525.pdf" data-type="page" data-id="29">slides</a></p>
 
