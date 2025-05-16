@@ -12,6 +12,13 @@
 
 # Slides for recent talks
 
+## ZAS Semantics Circle 15.05.25
+
+<p><a href="zas0525.pdf" data-type="page" data-id="29">slides</a></p>
+
+<br><br><br>
+
+
 ## The Amsterdam Colloquium 20.12.24
 
 <p><a href="ac2024_slides.pdf" data-type="page" data-id="29">slides</a></p>
