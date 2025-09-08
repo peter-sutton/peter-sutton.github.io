@@ -12,4 +12,4 @@
 
 ### Curriculum Vitae
 
-<p><a href="cv_sutton_2403.pdf" data-type="page" data-id="29">Download my CV</a>.</p>
+<p><a href="cv_sutton_2509-a.pdf" data-type="page" data-id="29">Download my CV</a>.</p>
