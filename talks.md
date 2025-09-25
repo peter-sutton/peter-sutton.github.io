@@ -18,6 +18,10 @@
 <p><a href="sub30-slides.pdf" data-type="page" data-id="29">slides</a></p>
 <p><a href="sub30-lightening.pdf" data-type="page" data-id="29">lightening talk slides</a></p>
 
+
+<br><br><br>
+
+
 ## ZAS Semantics Circle 16.05.25
 
 <p><a href="zas0525.pdf" data-type="page" data-id="29">slides</a></p>
