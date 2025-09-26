@@ -6,6 +6,7 @@
       <td><a href="cv">Curriculum Vitae</a></td>
       <td><a href="papers">Publications</a></td>
       <td><a href="projects">Projects</a></td>
+      <td><a href="talks">Talks</a></td>
     </tr>
     </tbody>
 </table>
