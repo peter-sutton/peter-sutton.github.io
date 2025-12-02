@@ -12,6 +12,12 @@
 
 # Slides for recent talks
 
+
+## CLASP/Linguistics Seminar - 02.12.25
+
+<p><a href="clasp_sem_slides.pdf" data-type="page" data-id="29">slides</a></p>
+
+
 ## SuB 30 - 25.09.25
 
 <p><a href="sub_poster.pdf" data-type="page" data-id="29">poster</a></p>
