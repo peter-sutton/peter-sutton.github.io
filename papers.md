@@ -22,6 +22,7 @@
 
 <!-- wp:list -->
 <ul>
+<li> Sutton, P. R. 2026, forthcoming. Gradable abstractnouns andeventualities.  In: Proceedings of Sinn und Bedeutung 30. <a href="Sutton_SuB28.pdf" > pdf </a> </li>
 <li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Forthcoming in the Proceedings of Sinn und Bedeutung 28.  <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/issue/view/32/11">&lt;Proceedings link&gt;</a></li>
 <li>Sutton, P. R. 2024. Types and Type Theories in Natural Language Analysis. Annu. Rev. Linguist. 2024. 10:5.1–5.20. <a href="https://doi.org/10.1146/annurev-linguistics-031422-113929">&lt;publisher link&gt;</a></li>
 <li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a></li>
@@ -33,6 +34,8 @@
 
 <!-- wp:list -->
 <ul>
+<li>Sutton, P. R. and H. Filip. 2026, in press. Objects and the grammar of countability. Oxford Studies in Semantics and Pragmatics series, OUP. <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=sn&lang=en"> Publisher website</a></li>
+<li>Sutton, P. R. and H. Filip. 2025. Nomen. Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online. <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a></li>
 <li>Sutton, P. R. and H. Filip. 2024. Making a statement: eventuality denoting nominals. Proceedings of the 24th Amsterdam Colloquium, pp 367–376. <a href="https://events.illc.uva.nl/AC/AC2024/Proceedings/">&lt;Proceedings link&gt;</a></li>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
 numerals and countability. Linguistics and Philosophy (online first). https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a></li>
@@ -59,9 +62,6 @@ numerals and countability. Linguistics and Philosophy (online first). https://do
 <!-- wp:heading {"level":3} -->
 ### Vagueness
 <!-- /wp:heading -->
-
-
-
 <!-- wp:list -->
 <ul>
 <li>Sutton, P. R. 2023. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI. <a href="https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html">&lt;publisher link&gt;</a> </li>
@@ -77,7 +77,7 @@ numerals and countability. Linguistics and Philosophy (online first). https://do
 
 <!-- wp:list -->
 <ul>
-  <li>Rainer Osswald, Christian Retoré & Peter Sutton (eds.). 2019. Proceedings of the IWCS 2019 Workshop on Computing Semantics with Types, Frames and Related Structures </li>
+<li>Rainer Osswald, Christian Retoré & Peter Sutton (eds.). 2019. Proceedings of the IWCS 2019 Workshop on Computing Semantics with Types, Frames and Related Structures </li>
 <li>A. Schuster, Strößner, C. Sutton, P.R., and Zeevat, H. 2020. Stochastic frames. In: Christine Howes, Stergios Chatzikyriakidis, Adam Ek, Vidya Somashekarappa (eds.) Proceedings of Probability and Meaning in the ACL Anthology, 2020.</li>
   <li>Alexandra Silva, Sam Staton, Peter Sutton &amp; Carla Umbach (eds.). 2019. Language, Logic, and Computation. 12th International Tbilisi Symposium, TbiLLC 2017, Lagodekhi, Georgia, September 18-22, 2017, Revised Selected Papers. <a href="https://link.springer.com/book/10.1007/978-3-662-59565-7#about">&lt;publisher link&gt;</a></li></ul>
 <!-- /wp:list -->
