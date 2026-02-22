@@ -13,11 +13,19 @@
 # Slides for recent talks
 
 
+
+## Szklarska Poreba Workshop 2026 - 22.02.26
+
+<p><a href="szklarska2026slides.pdf" data-type="page" data-id="29">slides</a></p>
+
+<br><br>
+
+
 ## CLASP/Linguistics Seminar - 02.12.25
 
 <p><a href="clasp_sem_slides.pdf" data-type="page" data-id="29">slides</a></p>
 
-<br><br><br>
+<br><br>
 
 ## SuB 30 - 25.09.25
 
