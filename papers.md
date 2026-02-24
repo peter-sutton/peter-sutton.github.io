@@ -77,6 +77,7 @@ numerals and countability. Linguistics and Philosophy (online first). https://do
 
 <!-- wp:list -->
 <ul>
+<li> Bolea, M., McNally, L., Sutton, P.R. 2026. Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data. In: Hogeweg, L., Jalali, R., Sedlár, I., Schwarz, L. (eds) Logic, Language, and Computation. TbiLLC 2023. Lecture Notes in Computer Science, vol 15661. Springer, Cham. <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a></li>
 <li>Rainer Osswald, Christian Retoré & Peter Sutton (eds.). 2019. Proceedings of the IWCS 2019 Workshop on Computing Semantics with Types, Frames and Related Structures </li>
 <li>A. Schuster, Strößner, C. Sutton, P.R., and Zeevat, H. 2020. Stochastic frames. In: Christine Howes, Stergios Chatzikyriakidis, Adam Ek, Vidya Somashekarappa (eds.) Proceedings of Probability and Meaning in the ACL Anthology, 2020.</li>
   <li>Alexandra Silva, Sam Staton, Peter Sutton &amp; Carla Umbach (eds.). 2019. Language, Logic, and Computation. 12th International Tbilisi Symposium, TbiLLC 2017, Lagodekhi, Georgia, September 18-22, 2017, Revised Selected Papers. <a href="https://link.springer.com/book/10.1007/978-3-662-59565-7#about">&lt;publisher link&gt;</a></li></ul>
