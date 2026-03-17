@@ -25,7 +25,7 @@
 <li> Sutton, P. R. 2026, forthcoming. Gradable abstract nouns and eventualities.  In: Proceedings of Sinn und Bedeutung 30. <a href="sutton-sub30.pdf" > pdf </a> </li>
 <li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Forthcoming in the Proceedings of Sinn und Bedeutung 28.  <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/issue/view/32/11">&lt;Proceedings link&gt;</a></li>
 <li>Sutton, P. R. 2024. Types and Type Theories in Natural Language Analysis. Annu. Rev. Linguist. 2024. 10:5.1–5.20. <a href="https://doi.org/10.1146/annurev-linguistics-031422-113929">&lt;publisher link&gt;</a></li>
-<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a> <a href="bib/sutton2022.md">bibtex</a></li>
+<li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a> <a href="bib/sutton2022.md">&lt;bibtex&gt;</a></li>
 </ul>
 
 
