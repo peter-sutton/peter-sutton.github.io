@@ -1,0 +1,10 @@
+@article{Sutton2024,
+	author = {Peter R. Sutton},
+	doi = {10.1146/annurev-linguistics-031422-113929},
+	journal = {Annual Review of Linguistics},
+	number = {1},
+	pages = {null},
+	title = {Types and Type Theories in Natural Language Analysis},
+	volume = {10},
+	year = {2024},
+	bdsk-url-1 = {https://doi.org/10.1146/annurev-linguistics-031422-113929}}
