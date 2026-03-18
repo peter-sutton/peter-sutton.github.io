@@ -34,8 +34,8 @@
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R. and H. Filip. 2026, in press. Objects and the grammar of countability. Oxford Studies in Semantics and Pragmatics series, OUP. <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=sn&lang=en"> Publisher website</a></li>
-<li>Sutton, P. R. and H. Filip. 2025. Nomen. Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online. <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a></li>
+<li>Sutton, P. R. and H. Filip. 2026, in press. Objects and the grammar of countability. Oxford Studies in Semantics and Pragmatics series, OUP. <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=sn&lang=en"> Publisher website</a> <a href="bib/SuttonFilip2026oup.md">&lt;bibtex&gt;</a> </li>
+<li>Sutton, P. R. and H. Filip. 2025. Nomen. Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online. <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a> <a href="bib/SuttonFilip2025nomen.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. and H. Filip. 2024. Making a statement: eventuality denoting nominals. Proceedings of the 24th Amsterdam Colloquium, pp 371–377. <a href="https://events.illc.uva.nl/AC/AC2024/Proceedings/">&lt;Proceedings link&gt;</a> <a href="bib/SuttonFilip2024AC.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
 numerals and countability. Linguistics and Philosophy 47: 993-1026. https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
