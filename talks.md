@@ -12,6 +12,13 @@
 
 # Slides for recent talks
 
+## Morpho-Syntax & Semantics Colloquium, University of Potsdam 28.04.26
+
+<p><a href="mosysem-2026-slides-sutton.pdf" data-type="page" data-id="39">slides</a></p>
+
+<br><br>
+
+
 
 
 ## Szklarska Poreba Workshop 2026 - 22.02.26
