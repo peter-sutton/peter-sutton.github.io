@@ -20,7 +20,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>I am currently a postdoctoral researcher at Potsdam University in Germany. My DFG-funded project <a href="https://peter-sutton.github.io/nice/"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025.</p> 
+<p>I am currently a postdoctoral researcher at Potsdam University in Germany. My DFG-funded project <a href="https://peter-sutton.github.io/nice/"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025. My fields of specialty are semantics and pragmatics, including lexical semantics. I use a combination of formal, cognitive and frame-theoretic approaches grounded in corpus linguistic studies.</p> 
   
 <p>From 2021 to 2024, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a> examined the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
 
@@ -33,11 +33,11 @@
   
 <img src="photo_2.jpeg" align="right" alt="" class="wp-image-88" width="276" height="367" style="margin: 15px 0px 0px 20px;" />
 
-<p>Some of the topics that interest me are: countability, including the semantics of counting and measuring constructions, context-sensitivity, vagueness, and the semantics of case marking (especially in Finnic languages).</p>
+<p>Some of the topics that interest me are: polysemy, countability, including the semantics of counting and measuring constructions, context-sensitivity, vagueness, and the semantics of case marking (especially in Finnic languages).</p>
 
 
 <!-- wp:paragraph -->
-<p>Some of the frameworks I have worked with are: probabilistic approaches to semantics and pragmatics, richly typed semantic theories (including Type Theory with Records), frame-based semantic theories.</p>
+<p>Some of the frameworks I have worked with are: probabilistic approaches to semantics and pragmatics, richly typed semantic theories (including Type Theory with Records), frame-based semantic theories. I also use corpus linguistic methodologies to empirically ground my theoretical work.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
