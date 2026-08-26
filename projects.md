@@ -7,6 +7,7 @@
       <td><a href="papers">Publications</a></td>
       <td><a href="projects">Projects</a></td>
       <td><a href="talks">Talks</a></td>
+      <td><a href="https://peter-sutton.github.io/nice/news">News</a></td>
     </tr>
     </tbody>
 </table>
