@@ -22,6 +22,8 @@
 
 <!-- wp:paragraph -->
 <p>I am currently a postdoctoral researcher at Potsdam University in Germany. My DFG-funded project <a href="https://peter-sutton.github.io/nice/"><i>Nouns in Contexts of Evaluation (NiCE)</i></a> started on 1. April 2025. My fields of specialty are semantics and pragmatics, including lexical semantics. I use a combination of formal, cognitive and frame-theoretic approaches grounded in corpus linguistic studies.</p> 
+
+<p>My new book <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=de&lang=en&">  Objects and the grammar of countability</a>  (joint with Hana Filip) is now out. It is also available via <a href="https://academic.oup.com/book/63164">Oxford Academic</a>.</p>
   
 <p>From 2021 to 2024, I was Beatriu de Pinós postdoctoral researcher in linguistics at Universitat Pompeu Fabra (UPF) in Barcelona. My project,  <a href="https://sites.google.com/view/pcan-project"><i>Polysemy and Countability in Abstract Nouns</i></a> examined the widespread polysemy found in abstract nouns and examines the connections this has with countability. This project was funded by the Secretary of Universities and Research (Government of Catalonia) and by the Horizon 2020 programme of research and innovation of the European Union under the Marie Sk&#322;odowska-Curie grant agreement No 801370.</p>
 
