@@ -21,14 +21,19 @@ Note: some overlap of papers across topics
 
 <ul>
 <li> <a href="#poly">Polysemy and Copredication</a> </li> 
-<li> <a href="#edit">Edited Volumes</a> </li> 
+<li> <a href="#count">Countability</a> </li>
+<li> <a href="#type">Types and Type Theory</a> </li>
+<li> <a href="#vague">Vagueness</a> </li>
+<li> <a href="#modal">Modality</a> </li> 
+<li> <a href="#refer">Referring Expressions</a> </li> 
+<li> <a href="#edit">Edited Volumes</a> </li>
 </ul>  
 
 
-<h3> Polysemy and Copredication </h3>
+<h3 id="poly"> Polysemy and Copredication </h3>
 
 <!-- wp:list -->
-<ul><div id="poly"></div>
+<ul>
 <li> Sutton, P. R. 2026 (forthcoming). Polysemy, copredication and the limits of property versatility. Theoretical
 Linguistics 2026. </li>
 <li> Sutton, P. R. 2026. Gradable abstract nouns and eventualities.  In: Proceedings of Sinn und Bedeutung 30. pp. 1056-1073 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384" > &lt;Open access link&gt; </a>  <a href="bib/Sutton2026sub.md"> &lt;bibtex&gt;</a></li>
@@ -39,7 +44,7 @@ Linguistics 2026. </li>
 
 
 
-### Countability
+<h3 id="count"> Countability </h3>
 
 <!-- wp:list -->
 <ul>
@@ -68,7 +73,7 @@ numerals and countability. Linguistics and Philosophy 47: 993-1026. https://doi.
 </ul>
 <!-- /wp:list -->
 
-### Types and Type Theory
+<h3 id="type"> Types and Type Theory </h3>
 
 <ul>
 <li> Sutton, P. R. 2026 (forthcoming). Polysemy, copredication and the limits of property versatility. Theoretical
@@ -79,7 +84,7 @@ Linguistics 2026. </li>
 </ul>
 
 <!-- wp:heading {"level":3} -->
-### Vagueness
+<h3 id="vague"> Vagueness </h3>
 <!-- /wp:heading -->
 <!-- wp:list -->
 <ul>
@@ -90,7 +95,7 @@ Linguistics 2026. </li>
   <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="sutton_0929920_thesis_library.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
 <!-- /wp:list -->
 
-### Modality
+<h3 id="modal"> Modality </h3>
 
 <ul>
 <li>
@@ -100,7 +105,7 @@ Necessity in Igbo: A simplified degree-based approach. Semantics and Linguistic 
 </ul>
   <!-- wp:heading {"level":3} -->
 
-### Referring expression
+<h3 id="refer"> Referring expressions </h3>
 
 <ul>
 <li> Bolea, M., McNally, L., Sutton, P.R. 2026. Modification Strategies for Discriminating Among Referents in the Presence of Distractors: An Analysis of Large-Scale Production Data. In: Hogeweg, L., Jalali, R., Sedlár, I., Schwarz, L. (eds) Logic, Language, and Computation. TbiLLC 2023. Lecture Notes in Computer Science, vol 15661. Springer, Cham. <a href="https://doi.org/10.1007/978-3-032-14339-6_2"> Publisher Link </a>
@@ -109,8 +114,7 @@ Necessity in Igbo: A simplified degree-based approach. Semantics and Linguistic 
 
 
 
-### Edited Volumes 
-<div id="edit"></div>
+<h3 id="edit"> Edited Volumes </h3>
 
 <ul>
 <li>Rainer Osswald, Christian Retoré & Peter Sutton (eds.). 2019. Proceedings of the IWCS 2019 Workshop on Computing Semantics with Types, Frames and Related Structures </li>
