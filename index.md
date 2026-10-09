@@ -51,9 +51,9 @@
 
 ### Contact
 
-<p>Peter Sutton [he/him]</p>
+<p>Peter R. Sutton [he/him]</p>
 
-<p><strong>peter&nbsp;</strong><em>dot</em><strong>&nbsp;r&nbsp;</strong><em>dot</em><strong>&nbsp;sutton&nbsp;</strong><em>at_symbol</em><strong>&nbsp;icloud&nbsp;</strong><em>dot</em><strong>&nbsp;com</strong></p>
+<p><strong>first name&nbsp;</strong><em>dot</em><strong>&nbsp;middle initial&nbsp;</strong><em>dot</em><strong>&nbsp;last name&nbsp;</strong><em>at</em><strong>&nbsp;icloud&nbsp;</strong><em>dot</em><strong>&nbsp;com</strong></p>
 
 <!-- <p> Department of translation and language sciences <br>
 Universitat Pompeu Fabra, Barcelona <br>
