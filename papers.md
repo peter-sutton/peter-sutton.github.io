@@ -22,12 +22,13 @@ Note: some overlap of papers across topics
 <ul>
 <li>
 <a href="#poly">Polysemy and Copredication</a>
+<a href="#edit">Polysemy and Copredication</a>
 </li> 
 </ul>  
 <!--<p>My publications are listed by topic and subsequently by year. </p>
 
 
-### <div id="poly"></div>Polysemy and Copredication
+### Polysemy and Copredication <div id="poly"></div>
 
 <!-- wp:list -->
 <ul>
@@ -111,7 +112,7 @@ Necessity in Igbo: A simplified degree-based approach. Semantics and Linguistic 
 
 
 
-### Edited Volumes
+### Edited Volumes <div id="edit"></div>
 
 <ul>
 <li>Rainer Osswald, Christian Retoré & Peter Sutton (eds.). 2019. Proceedings of the IWCS 2019 Workshop on Computing Semantics with Types, Frames and Related Structures </li>
