@@ -18,11 +18,16 @@
 <p>
 Note: some overlap of papers across topics 
 </p>
+
+<ul>
+<li>
+<a href="#poly">Polysemy and Copredication</a>
+</li> 
+</ul>  
 <!--<p>My publications are listed by topic and subsequently by year. </p>
 
-## By Topic-->
 
-### Polysemy and Copredication
+### <div id="poly"></div>Polysemy and Copredication
 
 <!-- wp:list -->
 <ul>
