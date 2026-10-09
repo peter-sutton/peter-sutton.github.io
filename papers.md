@@ -56,7 +56,9 @@ Linguistics 2026. </li>
 <li>Sutton, P. R. and H. Filip. 2025. Nomen. Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online. <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a> <a href="bib/SuttonFilip2025nomen.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. and H. Filip. 2024. Making a statement: eventuality denoting nominals. Proceedings of the 24th Amsterdam Colloquium, pp 371–377. <a href="https://events.illc.uva.nl/AC/AC2024/Proceedings/">&lt;Proceedings link&gt;</a> <a href="bib/SuttonFilip2024AC.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
-numerals and countability. Linguistics and Philosophy 47: 993-1026. https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
+numerals and countability. Linguistics and Philosophy 47: 993-1026.
+  <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> 
+  <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R., H. Filip, T. Snider, and M. Windhearn. 2022. Metaphorical measure expressions. Proceedings of Sinn und Bedeutung 26.<a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1032">&lt;pdf&gt;</a></li>
 <li>K. Erbach, P.R. Sutton, H. Filip, and K. Byrdeck. "Object Mass Nouns as Arbiter for the Mass/Count Category". 2021. In: J. Pelletier, T. Kiss, and H. Husić (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/object-mass-nouns-as-an-arbiter-for-the-countmass-category/B41DDF60DD5C088383F1A7244F92CEF0">&lt;publisher link&gt;</a></li>
 <li>P. R. Sutton and H. Filip. 2021. "Container, Portion and Measure Interpretations of Pseudo- Partitive Constructions". In: J. Pelletier, T. Kiss, and H. Husic (eds.) The Semantics of the Count-Mass Distinction. CUP. <a href="https://www.cambridge.org/core/books/abs/things-and-stuff/container-portion-and-measure-interpretations-of-pseudopartitive-constructions/C696581BF0F2DC99832AB01057D12DC6">&lt;publisher link&gt;</a></li>
@@ -99,7 +101,8 @@ and Polysemy. Proceedings of Sinn und Bedeutung 31. </li>
 
 <ul>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
-numerals and countability. Linguistics and Philosophy 47: 993-1026. https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
+numerals and countability. Linguistics and Philosophy 47: 993-1026.  
+  <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2023. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI. <a href="https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html">&lt;publisher link&gt;</a> </li>
 <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118788516.sem053">&lt;publisher link&gt;</a></li>
 <li>A. Schuster, Strößner, C. Sutton, P.R., and Zeevat, H. 2020. Stochastic frames. In: Christine Howes, Stergios Chatzikyriakidis, Adam Ek, Vidya Somashekarappa (eds.) Proceedings of Probability and Meaning in the ACL Anthology, 2020.</li>
