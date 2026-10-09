@@ -23,6 +23,8 @@
 
 <!-- wp:list -->
 <ul>
+<li> Sutton, P. R. 2026 (forthcoming). Polysemy, copredication and the limits of property versatility. Theoretical
+Linguistics 2026. </li>
 <li> Sutton, P. R. 2026. Gradable abstract nouns and eventualities.  In: Proceedings of Sinn und Bedeutung 30. pp. 1056-1073 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384" > &lt;Open access link&gt; </a>  <a href="bib/Sutton2026sub.md"> &lt;bibtex&gt;</a></li>
 <li>Sutton, P. R. 2024. Individuation criteria and copredication: modification in context. Proceedings of Sinn und Bedeutung 28.  <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/issue/view/32/11">&lt;Proceedings link&gt;</a> <a href="bib/Sutton2024sub.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2024. Types and Type Theories in Natural Language Analysis. Annu. Rev. Linguist. 2024. 10:5.1–5.20. <a href="https://doi.org/10.1146/annurev-linguistics-031422-113929">&lt;publisher link&gt;</a> <a href="bib/Sutton2024ARL.md">&lt;bibtex&gt;</a> </li>
@@ -35,7 +37,7 @@
 
 <!-- wp:list -->
 <ul>
-<li>Sutton, P. R. and H. Filip. 2026, in press. Objects and the grammar of countability. Oxford Studies in Semantics and Pragmatics series, OUP. <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=sn&lang=en"> Publisher website</a> <a href="bib/SuttonFilip2026oup.md">&lt;bibtex&gt;</a> </li>
+<li>Sutton, P. R. and H. Filip. 2026. Objects and the grammar of countability. Oxford Studies in Semantics and Pragmatics series, OUP. <a href="https://global.oup.com/academic/product/objects-and-the-grammar-of-countability-9780192891143?cc=sn&lang=en"> Publisher website</a> <a href="bib/SuttonFilip2026oup.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. and H. Filip. 2025. Nomen. Wörterbücher zur Sprach- und Kommunikationswissenschaft (WSK) Online. <a href="https://www.degruyterbrill.com/database/wsk/entry/wsk__42985065/html"> Publisher website</a> <a href="bib/SuttonFilip2025nomen.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. and H. Filip. 2024. Making a statement: eventuality denoting nominals. Proceedings of the 24th Amsterdam Colloquium, pp 371–377. <a href="https://events.illc.uva.nl/AC/AC2024/Proceedings/">&lt;Proceedings link&gt;</a> <a href="bib/SuttonFilip2024AC.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
