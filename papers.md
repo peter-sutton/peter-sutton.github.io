@@ -23,6 +23,7 @@ Note: some overlap of papers across topics
 <li> <a href="#poly">Polysemy and Copredication</a> </li> 
 <li> <a href="#count">Countability</a> </li>
 <li> <a href="#type">Types and Type Theory</a> </li>
+<li> <a href="#comp">Nominal Complementiser Clauses</a> </li>
 <li> <a href="#vague">Vagueness</a> </li>
 <li> <a href="#modal">Modality</a> </li> 
 <li> <a href="#refer">Referring Expressions</a> </li> 
@@ -34,6 +35,8 @@ Note: some overlap of papers across topics
 
 <!-- wp:list -->
 <ul>
+<li> Sutton, P. R. and R. Cooper 2027, forthcoming. Nominal that-complementisers: Eventualities, Situations
+and Polysemy. Proceedings of Sinn und Bedeutung 31. </li>
 <li> Sutton, P. R. 2026 (forthcoming). Polysemy, copredication and the limits of property versatility. Theoretical
 Linguistics 2026. </li>
 <li> Sutton, P. R. 2026. Gradable abstract nouns and eventualities.  In: Proceedings of Sinn und Bedeutung 30. pp. 1056-1073 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384" > &lt;Open access link&gt; </a>  <a href="bib/Sutton2026sub.md"> &lt;bibtex&gt;</a></li>
@@ -83,16 +86,24 @@ Linguistics 2026. </li>
 <li>Sutton, P. R. 2022. Restrictions on copredication: a situation theoretic approach. Semantics and Linguistic Theory 32. <a href="http://journals.linguisticsociety.org/proceedings/index.php/SALT/article/view/32.017">&lt;pdf&gt;</a> <a href="bib/sutton2022.md">&lt;bibtex&gt;</a> </li>
 </ul>
 
-<!-- wp:heading {"level":3} -->
-<h3 id="vague"> Vagueness </h3>
-<!-- /wp:heading -->
-<!-- wp:list -->
+<h3 id="comp"> Nominal Complementiser Clauses </h3>
+
 <ul>
+<li> Sutton, P. R. and R. Cooper 2027, forthcoming. Nominal that-complementisers: Eventualities, Situations
+and Polysemy. Proceedings of Sinn und Bedeutung 31. </li>
+</ul>
+
+
+<h3 id="vague"> Vagueness </h3>
+
+<ul>
+<li>Sutton, P. R. 2024. The problem of the many: a view from the semantics of
+numerals and countability. Linguistics and Philosophy 47: 993-1026. https://doi.org/10.1007/s10988-023-09405-1. <a href="https://doi.org/10.1007/s10988-023-09405-1">&lt;Publisher Link (open access)&gt;</a> <a href="bib/Sutton2024LandP.md">&lt;bibtex&gt;</a> </li>
 <li>Sutton, P. R. 2023. The origins of vagueness. In: Jean-Philippe Bernardy, Rasmus Blanck, Stergios Chatzikyriakidis, Shalom Lappin, Aleksandre Maskharashvili (eds.), Probabilistic Approaches to Linguistic Theory. CSLI. <a href="https://press.uchicago.edu/ucp/books/book/distributed/P/bo198661279.html">&lt;publisher link&gt;</a> </li>
 <li>H. Burnett and P. R. Sutton. 2021. "Vagueness and natural language semantics". In D. Gutzmann, L. Matthewson, C. Meier, H. Rullman and T.E. Zimmermann. The Wiley-Blackwell Companion to Semantics. Wiley-Blackwell Publishing. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118788516.sem053">&lt;publisher link&gt;</a></li>
 <li>A. Schuster, Strößner, C. Sutton, P.R., and Zeevat, H. 2020. Stochastic frames. In: Christine Howes, Stergios Chatzikyriakidis, Adam Ek, Vidya Somashekarappa (eds.) Proceedings of Probability and Meaning in the ACL Anthology, 2020.</li>
   <li>P. R. Sutton. 2018. Probabilistic Approaches to Vagueness and the Principle of Tolerance. Erkenntnis 83(4): 711-740&nbsp;<br> <a href="sutton_erke2018.pdf">&lt;pre-final&gt;</a>&nbsp;  <a href="https://link.springer.com/article/10.1007/s10670-017-9910-6">&lt;publisher link (paywall)&gt;</a></li>
-  <li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="sutton_0929920_thesis_library.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
+<li>P. R. Sutton. 2015. Towards a Probabilistic Semantics for Vague Adjectives. In: Schmitz, Hans-Christian and Zeevat, Henk (eds.),&nbsp;<em>Language, Cognition, and Mind</em>, Springer.&nbsp;<a href="bnlsp.pdf">&lt;pre-final&gt;</a><a href="http://www.springer.com/de/book/9783319170633">&lt;publisher link&gt;</a></li><li>P. R. Sutton. 2013. <a href="sutton_0929920_thesis_library.pdf">Vagueness, Communication and Semantic Information</a>, PhD Thesis, King's College London.</li></ul>
 <!-- /wp:list -->
 
 <h3 id="modal"> Modality </h3>
