@@ -20,19 +20,15 @@ Note: some overlap of papers across topics
 </p>
 
 <ul>
-<li>
-<a href="#poly">Polysemy and Copredication</a>
-<a href="#edit">Polysemy and Copredication</a>
-</li> 
+<li> <a href="#poly">Polysemy and Copredication</a> </li> 
+<li> <a href="#edit">Edited Volumes</a> </li> 
 </ul>  
-<!--<p>My publications are listed by topic and subsequently by year. </p>
 
 
-### Polysemy and Copredication 
-<div id="poly"></div>
+<h3> Polysemy and Copredication </h3>
 
 <!-- wp:list -->
-<ul>
+<ul><div id="poly"></div>
 <li> Sutton, P. R. 2026 (forthcoming). Polysemy, copredication and the limits of property versatility. Theoretical
 Linguistics 2026. </li>
 <li> Sutton, P. R. 2026. Gradable abstract nouns and eventualities.  In: Proceedings of Sinn und Bedeutung 30. pp. 1056-1073 <a href="https://ojs.ub.uni-konstanz.de/sub/index.php/sub/article/view/1384" > &lt;Open access link&gt; </a>  <a href="bib/Sutton2026sub.md"> &lt;bibtex&gt;</a></li>
