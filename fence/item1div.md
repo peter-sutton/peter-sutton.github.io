@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!-- <!DOCTYPE HTML> -->
 <html>
 
 <!-- <style>
@@ -40,14 +40,12 @@ $(document).ready(function() {
 });
 </script>
 
-</head>
+<head/>
 <body>
 
 
 <div id="pics" style="text-align: center">
 <img src="images/Alined02divisions.jpg" style="width: 40vw; min-width: 330px;" style="margin: 15px 0px 0px 20px;" class="wp-image-88" style="margin: 15px 0px 0px 20px;" align = center id="picOne" />
-
-
 
 
 
@@ -61,12 +59,12 @@ $(document).ready(function() {
   <input type="text" id="fname" name="fname"><br><br>
   <input type="submit" value="Submit">
 </form>
-  </div> 
+</div> 
   
-</div>
+<div/>
   <!-- <p>...After the script. user</p> -->
 
-</body>
+<body/>
 
-</html>
+<html/>
 
