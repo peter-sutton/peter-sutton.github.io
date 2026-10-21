@@ -15,8 +15,8 @@ display: none;
 }
 
 #pics {
-width:100vw;
-height:10vw;
+width:50vw;
+height:50vw;
 }
 
 </style>
