@@ -38,7 +38,7 @@ $(document).ready(function() {
     $('#picTwo').delay(5000).fadeIn(1500);
     $('#picThree').delay(6000).fadeIn(1500);
 });
-<script/>
+</script>
 
 <head/>
 <body>
