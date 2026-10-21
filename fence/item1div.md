@@ -30,7 +30,7 @@ Schau was sich verändert hat! </h3>
 <p/>
 
 <!-- width="276" height="367"  -->
-<script src="http://code.jquery.com/jquery-1.4.4.min.js" type="text/javascript"></script>
+<script src="https://peter-sutton.github.io/fence/source.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 $(document).ready(function() {
