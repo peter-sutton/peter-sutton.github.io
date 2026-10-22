@@ -1,7 +1,7 @@
 <html>
 <style>
 body {background-color: white;}
-h1   {color: black;}
+h3   {color: black;}
 p    {color: black;}
 </style>
 <body>
@@ -17,7 +17,7 @@ p    {color: black;}
 
 <p style="text-align: center">
 <a href="https://peter-sutton.github.io/fence/item1div">
-  <button> <h3 style="font-size: value;"> Next <h3/> <button/>
+  <button fill = gray> <h3 style="font-size: value;"> Next <h3/> <button/>
 <a/>
 <p/>
 
