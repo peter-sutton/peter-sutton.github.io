@@ -1,5 +1,4 @@
-
-<!-- <body> -->
+<body>
 	
 <p style="text-align: center">
 <h3 style="font-size: value;text-align: center"> Hier ist das Dorf Siebenschlaf mit einer ganz tollen Nachbarschaft. </h3>
@@ -17,7 +16,7 @@
 
   <!-- <p>...After the script. user</p> -->
 
-<!-- </body> -->
+<body/>
 
 
 
