@@ -3,7 +3,7 @@
 body {background-color: white;}
 h1   {color: black;}
 p    {color: black;}
-</style>
+<style/>
 <body>
 
 	
