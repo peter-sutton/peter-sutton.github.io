@@ -1,5 +1,11 @@
 <html>
+<style>
+body {background-color: white;}
+h1   {color: black;}
+p    {color: black;}
+</style>
 <body>
+
 	
 <p style="text-align: center">
 <h3 style="font-size: value;text-align: center"> Hier ist das Dorf Siebenschlaf mit einer ganz tollen Nachbarschaft. </h3>
