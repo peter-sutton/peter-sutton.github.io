@@ -15,7 +15,7 @@
 
 ## Flexible Meaning Adjustments in Context, Universität Bielefeld, 13.11.26
 
-<p><a href="handout.pdf" data-type="page" data-id="23">handout</a></p>
+<p><a href="bielefeld_handout.pdf" data-type="page" data-id="23">handout</a></p>
 
 <br><br>
 
