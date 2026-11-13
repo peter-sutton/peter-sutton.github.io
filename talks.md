@@ -11,7 +11,15 @@
 </table>
 
 
-# Slides for recent talks
+# Slides and handouts for recent talks
+
+## Flexible Meaning Adjustments in Context, Universität Bielefeld, 13.11.26
+
+<p><a href="handout.pdf" data-type="page" data-id="23">handout</a></p>
+
+<br><br>
+
+
 
 ## SULA-TripleA 2026, UBC, Vancouver 12.05.26
 
@@ -25,7 +33,6 @@
 <p><a href="mosysem-2026-slides-sutton.pdf" data-type="page" data-id="39">slides</a></p>
 
 <br><br>
-
 
 
 
